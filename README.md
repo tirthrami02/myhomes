@@ -2,6 +2,7 @@
 
 I made this project using AngularJS framework using Typescript.
 This has feature of routes, search and various component attaching on single page.
+This project can also fetch data from json url format and shows on the main page.
 
 You can see your interested pages there.
 
